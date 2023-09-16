@@ -1,0 +1,125 @@
+---
+object: card
+id: 6d8330b7-7fae-45ef-b254-12f720b85fba
+oracle_id: 711eea87-0fa3-46e0-a42b-fa5a86455f04
+multiverse_ids: []
+mtgo_id: 34229
+tcgplayer_id: 79344
+cardmarket_id: 240504
+name: Shivan Dragon
+lang: en
+released_at: '2010-06-04'
+uri: https://api.scryfall.com/cards/6d8330b7-7fae-45ef-b254-12f720b85fba
+scryfall_uri: https://scryfall.com/card/dpa/53/shivan-dragon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/d/6d8330b7-7fae-45ef-b254-12f720b85fba.jpg?1562483339
+  normal: https://cards.scryfall.io/normal/front/6/d/6d8330b7-7fae-45ef-b254-12f720b85fba.jpg?1562483339
+  large: https://cards.scryfall.io/large/front/6/d/6d8330b7-7fae-45ef-b254-12f720b85fba.jpg?1562483339
+  png: https://cards.scryfall.io/png/front/6/d/6d8330b7-7fae-45ef-b254-12f720b85fba.png?1562483339
+  art_crop: https://cards.scryfall.io/art_crop/front/6/d/6d8330b7-7fae-45ef-b254-12f720b85fba.jpg?1562483339
+  border_crop: https://cards.scryfall.io/border_crop/front/6/d/6d8330b7-7fae-45ef-b254-12f720b85fba.jpg?1562483339
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Creature — Dragon
+oracle_text: |-
+  Flying (This creature can't be blocked except by creatures with flying or reach.)
+  {R}: Shivan Dragon gets +1/+0 until end of turn.
+power: '5'
+toughness: '5'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: 6d8330b7-7fae-45ef-b254-12f720b85fba
+  component: combo_piece
+  name: Shivan Dragon
+  type_line: Creature — Dragon
+  uri: https://api.scryfall.com/cards/6d8330b7-7fae-45ef-b254-12f720b85fba
+- object: related_card
+  id: 2a43b352-d84b-4714-bbcd-3ad282c8aa9d
+  component: combo_piece
+  name: Sarkhan, Wanderer to Shiv
+  type_line: Legendary Planeswalker — Sarkhan
+  uri: https://api.scryfall.com/cards/2a43b352-d84b-4714-bbcd-3ad282c8aa9d
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 491666a2-3de4-4214-8238-2dad9dfb5a7a
+set: dpa
+set_name: Duels of the Planeswalkers
+set_type: box
+set_uri: https://api.scryfall.com/sets/491666a2-3de4-4214-8238-2dad9dfb5a7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adpa&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dpa?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6d8330b7-7fae-45ef-b254-12f720b85fba/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A711eea87-0fa3-46e0-a42b-fa5a86455f04&unique=prints
+collector_number: '53'
+digital: false
+rarity: rare
+flavor_text: The undisputed master of the mountains of Shiv.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Donato Giancola
+artist_ids:
+- 90332db2-aecb-4d79-917b-95cbeb8d0cb6
+illustration_id: 2f2cebbc-9458-47b8-b3d4-b2ddb06ad6a6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 8931
+penny_rank: 7221
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shivan+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shivan+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shivan+Dragon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/79344?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shivan+Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34229?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

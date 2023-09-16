@@ -1,0 +1,111 @@
+---
+object: card
+id: 69072d65-6d1d-48d1-aca0-4273722be79a
+oracle_id: b87a2d20-4e9f-4256-9d24-80c38515119e
+multiverse_ids: []
+mtgo_id: 34003
+tcgplayer_id: 79368
+cardmarket_id: 240486
+name: Molimo, Maro-Sorcerer
+lang: en
+released_at: '2010-06-04'
+uri: https://api.scryfall.com/cards/69072d65-6d1d-48d1-aca0-4273722be79a
+scryfall_uri: https://scryfall.com/card/dpa/74/molimo-maro-sorcerer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/9/69072d65-6d1d-48d1-aca0-4273722be79a.jpg?1562483336
+  normal: https://cards.scryfall.io/normal/front/6/9/69072d65-6d1d-48d1-aca0-4273722be79a.jpg?1562483336
+  large: https://cards.scryfall.io/large/front/6/9/69072d65-6d1d-48d1-aca0-4273722be79a.jpg?1562483336
+  png: https://cards.scryfall.io/png/front/6/9/69072d65-6d1d-48d1-aca0-4273722be79a.png?1562483336
+  art_crop: https://cards.scryfall.io/art_crop/front/6/9/69072d65-6d1d-48d1-aca0-4273722be79a.jpg?1562483336
+  border_crop: https://cards.scryfall.io/border_crop/front/6/9/69072d65-6d1d-48d1-aca0-4273722be79a.jpg?1562483336
+mana_cost: "{4}{G}{G}{G}"
+cmc: 7.0
+type_line: Legendary Creature — Elemental
+oracle_text: |-
+  Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+  Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+power: "*"
+toughness: "*"
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 491666a2-3de4-4214-8238-2dad9dfb5a7a
+set: dpa
+set_name: Duels of the Planeswalkers
+set_type: box
+set_uri: https://api.scryfall.com/sets/491666a2-3de4-4214-8238-2dad9dfb5a7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adpa&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dpa?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/69072d65-6d1d-48d1-aca0-4273722be79a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab87a2d20-4e9f-4256-9d24-80c38515119e&unique=prints
+collector_number: '74'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 9d6ebff2-ea7e-434a-9ae4-27576d87bbb8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 7283
+penny_rank: 10808
+prices:
+  usd: '0.33'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.21'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Molimo%2C+Maro-Sorcerer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Molimo%2C+Maro-Sorcerer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Molimo%2C+Maro-Sorcerer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/79368?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Molimo%2C+Maro-Sorcerer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34003?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

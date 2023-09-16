@@ -1,0 +1,112 @@
+---
+object: card
+id: 0b557581-0bd9-4e4e-a33e-75cf1043ef11
+oracle_id: 3ba81fbe-2c53-495b-9a2b-f124475bd71b
+multiverse_ids: []
+mtgo_id: 35210
+tcgplayer_id: 79351
+cardmarket_id: 240446
+name: Drove of Elves
+lang: en
+released_at: '2010-06-04'
+uri: https://api.scryfall.com/cards/0b557581-0bd9-4e4e-a33e-75cf1043ef11
+scryfall_uri: https://scryfall.com/card/dpa/57/drove-of-elves?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/b/0b557581-0bd9-4e4e-a33e-75cf1043ef11.jpg?1562482693
+  normal: https://cards.scryfall.io/normal/front/0/b/0b557581-0bd9-4e4e-a33e-75cf1043ef11.jpg?1562482693
+  large: https://cards.scryfall.io/large/front/0/b/0b557581-0bd9-4e4e-a33e-75cf1043ef11.jpg?1562482693
+  png: https://cards.scryfall.io/png/front/0/b/0b557581-0bd9-4e4e-a33e-75cf1043ef11.png?1562482693
+  art_crop: https://cards.scryfall.io/art_crop/front/0/b/0b557581-0bd9-4e4e-a33e-75cf1043ef11.jpg?1562482693
+  border_crop: https://cards.scryfall.io/border_crop/front/0/b/0b557581-0bd9-4e4e-a33e-75cf1043ef11.jpg?1562482693
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Elf
+oracle_text: |-
+  Hexproof
+  Drove of Elves's power and toughness are each equal to the number of green permanents you control.
+power: "*"
+toughness: "*"
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Hexproof
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 491666a2-3de4-4214-8238-2dad9dfb5a7a
+set: dpa
+set_name: Duels of the Planeswalkers
+set_type: box
+set_uri: https://api.scryfall.com/sets/491666a2-3de4-4214-8238-2dad9dfb5a7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adpa&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dpa?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0b557581-0bd9-4e4e-a33e-75cf1043ef11/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ba81fbe-2c53-495b-9a2b-f124475bd71b&unique=prints
+collector_number: '57'
+digital: false
+rarity: uncommon
+flavor_text: '"The light of beauty protects our journeys through darkness."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Larry MacDougall
+artist_ids:
+- 73932957-e76e-4ff0-8f0a-b3ad2d8dfae2
+illustration_id: 44765f9c-2ebd-4378-8810-d53f09360627
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9521
+penny_rank: 8393
+prices:
+  usd: '0.89'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drove+of+Elves&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drove+of+Elves&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drove+of+Elves
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/79351?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drove+of+Elves&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/35210?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

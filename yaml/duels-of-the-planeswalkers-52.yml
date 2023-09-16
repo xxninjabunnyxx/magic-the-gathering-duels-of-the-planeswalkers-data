@@ -1,0 +1,108 @@
+---
+object: card
+id: 1900c0b1-b2b0-4561-ae63-ab7cd4c54580
+oracle_id: 03fb26b1-6d9c-455b-9b2f-a052a9222db7
+multiverse_ids: []
+mtgo_id: 34105
+tcgplayer_id: 79343
+cardmarket_id: 240496
+name: Rage Reflection
+lang: en
+released_at: '2010-06-04'
+uri: https://api.scryfall.com/cards/1900c0b1-b2b0-4561-ae63-ab7cd4c54580
+scryfall_uri: https://scryfall.com/card/dpa/52/rage-reflection?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/9/1900c0b1-b2b0-4561-ae63-ab7cd4c54580.jpg?1562482699
+  normal: https://cards.scryfall.io/normal/front/1/9/1900c0b1-b2b0-4561-ae63-ab7cd4c54580.jpg?1562482699
+  large: https://cards.scryfall.io/large/front/1/9/1900c0b1-b2b0-4561-ae63-ab7cd4c54580.jpg?1562482699
+  png: https://cards.scryfall.io/png/front/1/9/1900c0b1-b2b0-4561-ae63-ab7cd4c54580.png?1562482699
+  art_crop: https://cards.scryfall.io/art_crop/front/1/9/1900c0b1-b2b0-4561-ae63-ab7cd4c54580.jpg?1562482699
+  border_crop: https://cards.scryfall.io/border_crop/front/1/9/1900c0b1-b2b0-4561-ae63-ab7cd4c54580.jpg?1562482699
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Enchantment
+oracle_text: Creatures you control have double strike.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 491666a2-3de4-4214-8238-2dad9dfb5a7a
+set: dpa
+set_name: Duels of the Planeswalkers
+set_type: box
+set_uri: https://api.scryfall.com/sets/491666a2-3de4-4214-8238-2dad9dfb5a7a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adpa&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dpa?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1900c0b1-b2b0-4561-ae63-ab7cd4c54580/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A03fb26b1-6d9c-455b-9b2f-a052a9222db7&unique=prints
+collector_number: '52'
+digital: false
+rarity: rare
+flavor_text: Vengeance is a dish best served twice.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen & Ron Spencer
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+- dab52c11-0564-4207-a4a1-c1735c946a65
+illustration_id: 581cb494-cd37-44a8-8372-fca28338a0d7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 5479
+penny_rank: 11818
+prices:
+  usd: '0.87'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rage+Reflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rage+Reflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rage+Reflection
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/79343?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rage+Reflection&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34105?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

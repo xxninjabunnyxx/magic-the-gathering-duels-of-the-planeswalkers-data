@@ -1,0 +1,16 @@
+---
+object: set
+id: 491666a2-3de4-4214-8238-2dad9dfb5a7a
+code: dpa
+tcgplayer_id: 1274
+name: Duels of the Planeswalkers
+uri: https://api.scryfall.com/sets/491666a2-3de4-4214-8238-2dad9dfb5a7a
+scryfall_uri: https://scryfall.com/sets/dpa
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Adpa&unique=prints
+released_at: '2010-06-04'
+set_type: box
+card_count: 113
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/dpa.svg?1694404800
